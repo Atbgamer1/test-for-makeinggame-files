@@ -7,7 +7,7 @@
       "name": "BRWeeklyStorefront",
       "catalogEntries": [
         {
-          "devName": "[VIRTUAL]1 x Dummeez for 1200 MtxCurrency",
+          "devName": "[VIRTUAL]1 x renegade raider for 1200 MtxCurrency",
           "offerId": "v2:/0689e11e50945556b50a3740c16c4b8665a699769b873e554c75ba3214a8122d",
           "fulfillmentIds": [],
           "dailyLimit": -1,
@@ -38,7 +38,7 @@
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaCharacter:CID_795_Athena_Commando_M_Dummeez",
+              "requiredId": "AthenaCharacter:CID_028_athena_commando_f",
               "minQuantity": 1
             },
             {
@@ -69,10 +69,10 @@
               "value": "Back"
             }
           ],
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_795_Athena_Commando_M_Dummeez",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_028_athena_commando_f",
           "itemGrants": [
             {
-              "templateId": "AthenaCharacter:CID_795_Athena_Commando_M_Dummeez",
+              "templateId": "AthenaCharacter:cid_028_athena_commando_f",
               "quantity": 1
             },
             {
